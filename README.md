@@ -1,2 +1,4 @@
-# simple_timer
-Simple timer program with PySimpleGui with the option of pause, reset and exit
+# Super Stopwatch
+
+Simple terminal stopwatch which you start and stop with ENTER.
+Exit w. Ctrl-C
